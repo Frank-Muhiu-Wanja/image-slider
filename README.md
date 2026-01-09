@@ -1,1 +1,3 @@
 # image-slider
+
+![](screenshot.png)
